@@ -7,3 +7,4 @@ Hello Miloud
 
 $
 
+git add .
